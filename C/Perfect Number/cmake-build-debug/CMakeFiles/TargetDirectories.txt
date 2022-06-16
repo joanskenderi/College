@@ -1,0 +1,3 @@
+/Users/joanskenderi/Desktop/College/C/Perfect Number/cmake-build-debug/CMakeFiles/Perfect_Number.dir
+/Users/joanskenderi/Desktop/College/C/Perfect Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joanskenderi/Desktop/College/C/Perfect Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
