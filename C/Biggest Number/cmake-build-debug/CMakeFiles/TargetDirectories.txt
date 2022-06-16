@@ -1,3 +1,0 @@
-/Users/joanskenderi/Desktop/College/C/Biggest Number/cmake-build-debug/CMakeFiles/Biggest_Number.dir
-/Users/joanskenderi/Desktop/College/C/Biggest Number/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/joanskenderi/Desktop/College/C/Biggest Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
