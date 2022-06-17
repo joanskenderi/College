@@ -1,4 +1,4 @@
-// Create a calculator
+// Create a calculator in C
 
 #include <stdio.h>
 
