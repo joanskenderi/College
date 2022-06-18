@@ -1,4 +1,4 @@
-// Create a function which gets parameters and returns a value to find the sum of 2 numbers
+// Create a function which gets arguments and returns a value to find the sum of 2 numbers
 
 #include <stdio.h>
 
