@@ -1,3 +1,0 @@
-/Users/joanskenderi/Desktop/College/C/Seconds, Minutes and Hours Calculator/cmake-build-debug/CMakeFiles/Seconds__Minutes_and_Hours_Calculator.dir
-/Users/joanskenderi/Desktop/College/C/Seconds, Minutes and Hours Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/joanskenderi/Desktop/College/C/Seconds, Minutes and Hours Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
